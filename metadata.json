@@ -1,0 +1,6 @@
+{
+  "name": "NINJA TECHNO",
+  "description": "Private multiplayer communication and voice network app by DEV SHAN",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
